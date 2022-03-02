@@ -18,7 +18,6 @@ class Jedi extends React.Component {
     return <div>I am a Jedi Component</div>;
   }
 }
-
 export default Jedi;
 
 // 2. Use component
@@ -43,7 +42,6 @@ ReactDOM.render(
 import React from 'react';
 
 const Jedi = () => <div>I am a Jedi Component</div>
-
 export default Jedi;
 
 // 2. Use component
