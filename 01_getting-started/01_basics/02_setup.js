@@ -53,6 +53,8 @@ npx http-server -p 5000
 
 // 1. Create a React project using npx and Create React App, in terminal:
 npx create-react-app my-app
+//or if you get error "We no longer support global installation of Create React App":
+npx create-react-app@latest your-project-name --use-npm
 
 // 2. Navigate to your project:
 cd my-app
