@@ -27,3 +27,5 @@ https://kentcdodds.com/blog/introducing-the-react-testing-library
 https://redux-saga.js.org/
 
 https://redux-form.com/7.4.2/
+
+https://www.nearform.com/blog/react-components-living-style-guides-overview/
