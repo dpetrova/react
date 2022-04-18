@@ -29,3 +29,11 @@ https://redux-saga.js.org/
 https://redux-form.com/7.4.2/
 
 https://www.nearform.com/blog/react-components-living-style-guides-overview/
+
+https://codebrahma.com/form-libraries-in-react/
+
+https://itnext.io/keep-calm-and-handle-forms-in-react-js-52c67eea340e
+
+https://github.com/christianalfoni/formsy-react
+
+https://github.com/tannerlinsley/react-form
